@@ -1,2 +1,7 @@
 # D33--OOPs-BANKING-SYSTEM
-This project is a Python-based Banking System that allows users to log in, deposit, and withdraw money. It tests your understanding of basic Python concepts like user input, data handling, and conditional logic, while encouraging you to build a functional banking application.
+This Python banking system allows users to create accounts, log in, and perform basic banking operations.
+Key features include depositing money, withdrawing funds, and checking account balances.
+Each account is identified by a unique account number and managed by the BankAccount class.
+The BankingSystem class handles multiple accounts, enabling account creation and login functionality.
+Users can create an account with an initial balance and log in to perform transactions.
+The system ensures secure transactions, running continuously until the user chooses to log out or exit.
